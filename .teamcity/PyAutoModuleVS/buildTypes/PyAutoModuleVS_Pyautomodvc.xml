@@ -27,7 +27,6 @@
           <param name="teamcity.tool.jacoco" value="%teamcity.tool.jacoco.DEFAULT%" />
           <param name="ui.gradleRunner.gradle.incremental" value="true" />
           <param name="ui.gradleRunner.gradle.tasks.names" value="buildDependents" />
-          <param name="ui.gradleRunner.gradle.wrapper.useWrapper" value="true" />
         </parameters>
       </runner>
     </build-runners>
