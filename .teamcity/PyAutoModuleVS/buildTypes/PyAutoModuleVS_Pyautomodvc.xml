@@ -25,7 +25,6 @@
           <param name="teamcity.coverage.jacoco.patterns" value="+:*" />
           <param name="teamcity.step.mode" value="default" />
           <param name="teamcity.tool.jacoco" value="%teamcity.tool.jacoco.DEFAULT%" />
-          <param name="ui.gradleRunner.gradle.incremental" value="true" />
           <param name="ui.gradleRunner.gradle.tasks.names" value="buildDependents" />
         </parameters>
       </runner>
