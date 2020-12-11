@@ -10,6 +10,7 @@
           <param name="command" value="pytest" />
           <param name="coverageArgs" value="--omit=*lib*" />
           <param name="envTool" value="none" />
+          <param name="installToolPackage" value="true" />
           <param name="isTestReportingEnabled" value="true" />
           <param name="pythonVersion" value="python3" />
           <param name="teamcity.step.mode" value="default" />
